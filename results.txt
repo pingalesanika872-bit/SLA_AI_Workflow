@@ -1,0 +1,17 @@
+SLE-2 Profiling Results
+
+Problem: Small Graph
+Start Node: A
+Goal Node: G
+
+Algorithm 1: BFS
+Average Time:  0.0025337333790957928 ms
+Nodes Expanded: 7
+
+Algorithm 2: DFS
+Average Time: 0.002512899925932288  ms
+Nodes Expanded: 7
+
+Comparison:
+DFS took less time.
+Both expanded the same number of nodes.

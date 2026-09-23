@@ -1,0 +1,5 @@
+AI Contribution Note
+
+AI tool used: ChatGPT
+What AI helped with: Understanding the SLE-2 requirements, BFS and DFS, preparing the profiling code, and understanding the results.
+What I did myself: I ran the Python program in VS Code, collected the actual profiling results, recorded the results, and compared BFS and DFS.
